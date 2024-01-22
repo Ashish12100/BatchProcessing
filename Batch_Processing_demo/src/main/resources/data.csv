@@ -1,0 +1,21 @@
+productid,title,description,price,discount
+1,product1,This is product1,200,2
+2,product2,This is product2,300,34
+3,product3,This is product3,400,55
+4,product4,This is product4,500,66
+5,product5,This is product5,750,78
+6,product6,This is product6,423,99
+7,product7,This is product7,342,88
+8,product8,This is product8,355,77
+9,product9,This is product9,233,54
+10,product10,This is product10,543,35
+11,product11,This is product11,635,22
+12,product12,This is product12,434,33
+13,product13,This is product13,421,44
+14,product14,This is product14,353,89
+15,product15,This is product15,534,99
+16,product16,This is product16,666,200
+17,product17,This is product17,666,44
+18,product18,This is product18,352,33
+19,product19,This is product19,987,564
+20,product20,This is product20,999,775
